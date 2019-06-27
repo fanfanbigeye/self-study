@@ -6,7 +6,7 @@
 4. 分支操作非常快捷流畅
 5. 与Linux命令全面兼容
 
-https://github.com/fanfanbigeye/self-study/blob/master/pictures/10.png
+!(https://github.com/fanfanbigeye/self-study/blob/master/pictures/10.png)
 ## Git安装
 官网下载最新版本：https://git-scm.com/
 
